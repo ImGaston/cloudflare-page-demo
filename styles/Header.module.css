@@ -1,0 +1,22 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  padding-left: 1rem;
+}
+
+.pages {
+  display: flex;
+  flex-direction: row;
+}
+
+.link {
+  text-decoration: none;
+  list-style: none;
+  padding-right: 1rem;
+}
+
